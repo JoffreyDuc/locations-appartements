@@ -1,0 +1,25 @@
+/* Commun */
+.primary{
+	background-color: #6AA3A2;
+}
+.primary-text{
+	color: #6AA3A2;
+}
+
+/* Arrière plan */
+.parallax-container{
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	opacity: 1;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 120%;
+	z-index: -1;
+}
+
+/* Accueil */
+#titre{
+	font-family: Georgia, sans-serif;
+}

@@ -1,2 +1,2 @@
 # locations-appartements
-Site web pour un proprétaire d'appartements sur le Bourget-du-Lac
+Site web pour un propriétaire d'appartements sur le Bourget-du-Lac.
