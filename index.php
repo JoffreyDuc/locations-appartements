@@ -5,6 +5,9 @@
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	<meta charset="utf-8">
 
+	<!-- Responsive design -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<!-- jQuery -->
 	<script src="lib/jquery/jquery-3.3.1.min.js"></script>
 	
@@ -19,6 +22,7 @@
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Georgia" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
 	<!-- Material Icons -->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -29,11 +33,11 @@
 	<?php include "background.html"; ?>
 
 	<!-- Menu -->
-	<?php include "header.html"; ?>
+	<?php include "menu.html"; ?>
 
 	<!-- Contenu -->
 	<div id="contenu" class="row">
-		<div class="col l6 offset-l3">
+		<div class="col l8 offset-l2">
 			<h1 id="titre" class="white-text center">Appartements à louer sur le Bourget-du-Lac</h1>
 		</div>
 	</div>
