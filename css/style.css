@@ -1,22 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Georgia');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 /* Commun */
+body{
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	background-image: url('../images/Lac_du_Bourget_et_le_Revard.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+html,body{
+	width: 100%;
+}
+main{
+	flex: 1 0 auto;
+}
 .primary{
 	background-color: #6AA3A2;
 }
 .primary-text{
 	color: #6AA3A2;
 }
-
-/* Arrière plan */
-.parallax-container{
-	position: absolute;
-	top: 0px;
-	width: 100%;
-	opacity: 1;
-	background-size: cover;
-	background-position: center center;
-	background-repeat: no-repeat;
-	height: 120%;
-	z-index: -1;
+.secondary{
+	background-color: #E5EBED;
 }
 
 /* Menu */
@@ -27,7 +35,7 @@ header{
 }
 #menuHorizontal a{
 	font-size: 16px;
-	font-family: Raleway, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	margin: 10px 0 10px 0;
 }
 .separator{
@@ -49,13 +57,6 @@ header{
 	width: 48px;
 	padding: 10px;
 }
-/*#hamburger:after{
-	color: #333;
-	-webkit-transition: all .2s linear 0s;
-	-moz-transition: all .2s linear 0s;
-	-o-transition: all .2s linear 0s;
-	transition-property: all .2s linear 0s;
-}*/
 .overlay{
 	position: fixed;
 	top: 0;
@@ -83,11 +84,22 @@ header{
 }
 #menuVertical a{
 	font-size: 18px;
-	font-family: Raleway, sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 #menuVertical a:hover{ color: #34b484; }
 
 /* Accueil */
 #titre{
-	font-family: Georgia, sans-serif;
+	font-family: 'Georgia', sans-serif;
+}
+
+/* Pied de page */
+footer{
+	font-family: 'Raleway', sans-serif;
+}
+footer hr{
+	border-color: orange;
+}
+footer p{
+	margin-top: 25px;
 }
