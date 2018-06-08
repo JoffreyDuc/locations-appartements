@@ -22,7 +22,7 @@
 	</div>
 	<div id="divImageSalon" class="col l4 m8 s10 offset-m2 offset-s1 hauteur260"></div>
 
-	<div id="divImageChambre" class="col l2 m8 s10 offset-l3 offset-m2 offset-s1 hauteur260"></div>
+	<div id="divImageChambre" class="col l2 m8 s10 offset-l3 offset-m2 offset-s1 hauteur260 hide-on-med-and-down"></div>
 	<div class="col l4 m8 s10 offset-m2 offset-s1 white center description hauteur260">
 		<p class="grey-text">Situés au Chemin des Bollons et à la route du Tunnel, je vous propose un T2, deux T3 et trois T4 tous modernes et meublés, avec un voisinage calme et agréable..</p>
 		<br>
