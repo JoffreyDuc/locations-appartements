@@ -10,7 +10,7 @@ body {
 	background-image: url('../images/Lac_du_Bourget_et_le_Revard.smalldevice.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: cover;	
+	background-size: auto 100%;	
 }
 @media only screen and (min-device-width: 601px) {
 	body { 
@@ -20,7 +20,7 @@ body {
 		background-image: url('../images/Lac_du_Bourget_et_le_Revard.min.jpg');
 		background-repeat: no-repeat;
 		background-attachment: fixed;
-		background-size: cover;	
+		background-size: cover;
 	}
 }
 html,body {
