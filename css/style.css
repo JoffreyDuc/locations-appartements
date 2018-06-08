@@ -7,10 +7,21 @@ body {
 	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
-	background-image: url('../images/Lac_du_Bourget_et_le_Revard.min.jpg');
+	background-image: url('../images/Lac_du_Bourget_et_le_Revard.smalldevice.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;	
+}
+@media only screen and (min-device-width: 601px) {
+	body { 
+		min-height: 100vh;
+		display: flex;
+		flex-direction: column;
+		background-image: url('../images/Lac_du_Bourget_et_le_Revard.min.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;	
+	}
 }
 html,body {
 	width: 100%;
