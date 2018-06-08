@@ -3,14 +3,16 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 /* Commun */
-body {
-	min-height: 100vh;
-	display: flex;
-	flex-direction: column;
-	background-image: url('../images/Lac_du_Bourget_et_le_Revard.smalldevice.jpg');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: auto 100%;	
+@media only screen and (max-device-width: 600px) {
+	body {
+		min-height: 100vh;
+		display: flex;
+		flex-direction: column;
+		background-image: url('../images/Lac_du_Bourget_et_le_Revard.smalldevice.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: auto 100%;	
+	}
 }
 @media only screen and (min-device-width: 601px) {
 	body { 
