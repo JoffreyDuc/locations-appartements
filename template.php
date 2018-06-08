@@ -1,3 +1,7 @@
+<?php if (!isset($contenu)) {
+	echo "Erreur 403";
+	die;
+} ?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
