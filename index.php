@@ -42,7 +42,7 @@
 <div class="row withoutMarginBot">
 	<div id="divImageBourget" class="col l4 m8 offset-l3 offset-m2 hauteur260 hide-on-small-only"></div>
 	<div class="parallax-container col s12 hide-on-med-and-up hauteur260">
-		<div class="parallax"><img src="images/le-bourget-du-lac.min.JPG"></div>
+		<div class="parallax"><img src="images/le-bourget-du-lac.min.jpg"></div>
 	</div>
 	<div class="col l2 m8 s12 offset-m2 primary center description hauteur260">
 		<h5 class="white-text">Location</h5>

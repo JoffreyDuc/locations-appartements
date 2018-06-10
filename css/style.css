@@ -125,17 +125,17 @@ header {
 	font-size: 20px;
 }
 #divImageSalon {
-	background-image: url('../images/T4-revard-salon.JPG');
+	background-image: url('../images/T4-revard-salon.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 #divImageChambre {
-	background-image: url('../images/T4-dentduchat-chambre.JPG');
+	background-image: url('../images/T4-dentduchat-chambre.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 #divImageBourget {
-	background-image: url('../images/le-bourget-du-lac.min.JPG');
+	background-image: url('../images/le-bourget-du-lac.min.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
