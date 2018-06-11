@@ -33,7 +33,7 @@
 	<div class="col l4 m8 s12 offset-m2 white center description hauteur260">
 		<p class="grey-text">Situés au Chemin des Bollons et à la route du Tunnel, je vous propose un T2, deux T3 et trois T4 tous modernes et meublés, avec un voisinage calme et agréable..</p>
 		<br>
-		<a class="btn-flat waves-effect primary-text" href="#">VOIR LES APPARTEMENTS<i class="material-icons right">chevron_right</i></a>
+		<a class="btn-flat waves-effect primary-text" href="/appartements.php">VOIR LES APPARTEMENTS<i class="material-icons right">chevron_right</i></a>
 	</div>
 </div>
 <div class="hide-on-small-only">
@@ -55,7 +55,7 @@
 			Informations générales sur la location? (collocation possible, étudiants seulement, droits aux animaux de companie, etc).
 		</p>
 		<br>
-		<a class="btn-flat waves-effect primary-text" href="#">VOIR SUR LA CARTE</a>
+		<a class="btn-flat waves-effect primary-text" href="/contact.php#map">VOIR SUR LA CARTE</a>
 	</div>
 
 	<div id="about" class="col l6 m8 s12 offset-l3 offset-m2 primary white-text center">
@@ -67,7 +67,7 @@
 			Situés à 5 minutes du campus de l'université de Savoie Mont-Blanc et à 500 mètres du lac, ils raviront tous les étudiants!
 		</p>
 		<br>
-		<a class="btn-flat waves-effect white-text" href="#">EN SAVOIR PLUS<i class="material-icons right">chevron_right</i></a>
+		<a class="btn-flat waves-effect white-text" href="/contact.php">EN SAVOIR PLUS<i class="material-icons right">chevron_right</i></a>
 	</div>
 </div>
 

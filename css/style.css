@@ -108,8 +108,9 @@ header {
 	font-family: 'Raleway', sans-serif;
 	margin-top: 50px;
 }
-#nomSmall {
+#titreMenuSmall {
 	font-family: 'Raleway', sans-serif;
+	text-transform: capitalize;
 }
 #titre, #titreSmall {
 	font-family: 'Georgia', sans-serif;
