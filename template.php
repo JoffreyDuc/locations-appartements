@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-	<title>Appartements P. Revel</title>
+	<title>Locations de meublés</title>
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	<meta charset="utf-8">
 
@@ -20,6 +20,10 @@
 
 	<!-- Material Icons -->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 </head>
 <body>
 
@@ -37,6 +41,7 @@
 	<script src="lib/jquery/jquery-3.3.1.min.js"></script>
 	<script src="lib/materialize/js/materialize.min.js"></script>
 	<script src="js/main.js" type="text/javascript"></script>
+	<script src="js/owl.carousel.min.js"></script>
 
 </body>
 </html>

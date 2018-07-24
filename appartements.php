@@ -12,94 +12,100 @@
 		<div class="parallax"><img src="images/Lac_du_Bourget_et_le_Revard.min.jpg"></div>
 	</div>
 
-	<div class="container">
+	<div class="container"> 
+		<!-- T2 Nivolet -->
 		<div class="col l4 m6 s12">
-			<div class="card hoverable">
+			<div class="card medium hoverable">
 				<div class="card-image">
-					<img src="images/T4-dentduchat-chambre.jpg">
-					<span class="card-title">T4 "Dent-du-chat"</span>
+					<img src="images/T2-nivolet/nivolet-0.jpg">
+					<span class="card-title">T2 "Nivolet"</span>
 				</div>
 				<div class="card-content">
-					<p>Cet appartement est un T4, il y a 3 chambre et est spacieux.<br>
-					Encore plus de description.</p>
+					<p>Cet appartement est un T2.<br>
+					Petite description.</p>
 				</div>
 				<div class="card-action">
-					<a href="#" class="btn-flat orange-text waves-effect">Plus d'infos</a>
+					<a href="T2-nivolet.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
 				</div>
 			</div>
 		</div>
+		<!-- T3 Granier -->
 		<div class="col l4 m6 s12">
-			<div class="card hoverable">
+			<div class="card medium hoverable">
 				<div class="card-image">
-					<img src="images/T4-dentduchat-chambre.jpg">
-					<span class="card-title">T4 "Dent-du-chat"</span>
+					<img src="images/T3-granier/granier-0.jpg">
+					<span class="card-title">T3 "Granier"</span>
 				</div>
 				<div class="card-content">
-					<p>Cet appartement est un T4, il y a 3 chambre et est spacieux.<br>
-					Encore plus de description.</p>
+					<p>Cet appartement est un T3.<br>
+					Petite description.</p>
 				</div>
 				<div class="card-action">
-					<a href="#" class="btn-flat orange-text waves-effect">Plus d'infos</a>
+					<a href="T3-granier.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
 				</div>
 			</div>
 		</div>
+		<!-- T3 Thomas 2 -->
 		<div class="col l4 m6 s12">
-			<div class="card hoverable">
+			<div class="card medium hoverable">
 				<div class="card-image">
-					<img src="images/T4-dentduchat-chambre.jpg">
-					<span class="card-title">T4 "Dent-du-chat"</span>
+					<img src="images/T3-thomas_2/thomas_2-0.jpg">
+					<span class="card-title">T3 "Thomas 2"</span>
 				</div>
 				<div class="card-content">
-					<p>Cet appartement est un T4, il y a 3 chambre et est spacieux.<br>
-					Encore plus de description.</p>
+					<p>Cet appartement est un T3.<br>
+					Petite description.</p>
 				</div>
 				<div class="card-action">
-					<a href="#" class="btn-flat orange-text waves-effect">Plus d'infos</a>
+					<a href="T3-thomas_2.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
 				</div>
 			</div>
 		</div>
+		<!-- T4 Belledonnes -->
 		<div class="col l4 m6 s12">
-			<div class="card hoverable">
+			<div class="card medium hoverable">
 				<div class="card-image">
-					<img src="images/T4-dentduchat-chambre.jpg">
-					<span class="card-title">T4 "Dent-du-chat"</span>
+					<img src="images/T4-belledonnes/belledonnes-0.jpg">
+					<span class="card-title">T4 "Belledonnes"</span>
 				</div>
 				<div class="card-content">
-					<p>Cet appartement est un T4, il y a 3 chambre et est spacieux.<br>
-					Encore plus de description.</p>
+					<p>Cet appartement est un T4.<br>
+					Petite description.</p>
 				</div>
 				<div class="card-action">
-					<a href="#" class="btn-flat orange-text waves-effect">Plus d'infos</a>
+					<a href="T4-belledonnes.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
 				</div>
 			</div>
 		</div>
+		<!-- T4 Dent-du-chat -->
 		<div class="col l4 m6 s12">
-			<div class="card hoverable">
+			<div class="card medium hoverable">
 				<div class="card-image">
-					<img src="images/T4-dentduchat-chambre.jpg">
+					<img src="images/T4-dent_du_chat/dent_du_chat-0.jpg">
 					<span class="card-title">T4 "Dent-du-chat"</span>
 				</div>
 				<div class="card-content">
-					<p>Cet appartement est un T4, il y a 3 chambre et est spacieux.<br>
-					Encore plus de description.</p>
+					<p>Cet appartement est un T4.<br>
+					Petite description.</p>
 				</div>
 				<div class="card-action">
-					<a href="#" class="btn-flat orange-text waves-effect">Plus d'infos</a>
+					<a href="T4-dent_du_chat.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
 				</div>
 			</div>
 		</div>
+		<!-- T4 Revard -->
 		<div class="col l4 m6 s12">
-			<div class="card hoverable">
+			<div class="card medium hoverable">
 				<div class="card-image">
-					<img src="images/T4-dentduchat-chambre.jpg">
-					<span class="card-title">T4 "Dent-du-chat"</span>
+					<img src="images/T4-revard/revard-0.jpg">
+					<span class="card-title">T4 "Revard"</span>
 				</div>
 				<div class="card-content">
-					<p>Cet appartement est un T4, il y a 3 chambre et est spacieux.<br>
-					Encore plus de description.</p>
+					<p>Cet appartement est un T4.<br>
+					Petite description.</p>
 				</div>
 				<div class="card-action">
-					<a href="#" class="btn-flat orange-text waves-effect">Plus d'infos</a>
+					<a href="T4-revard.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
 				</div>
 			</div>
 		</div>

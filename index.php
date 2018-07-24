@@ -3,13 +3,13 @@
 <div class="row withoutMarginBot">
 	<div id="divTitre" class="col l8 m8 s10 offset-l2 offset-m2 offset-s1 hide-on-small-only">
 		<h6 id="nom" class="white-text center">Pierre REVEL</h6>
-		<h1 id="titre" class="white-text center">Appartements à louer sur le Bourget-du-Lac</h1>
+		<h1 id="titre" class="white-text center">Locations de meublés - La Croix verte</h1>
 		
 	</div>
 
 	<div id="divTitreSmall" class="parallax-container hide-on-med-and-up valign-wrapper">
 		<div class="col s10 offset-s1">
-			<h3 id="titreSmall" class="white-text center">Appartements à louer sur le Bourget-du-Lac</h3>
+			<h3 id="titreSmall" class="white-text center">Locations de meublés - La Croix verte</h3>
 		</div>
 		<div class="parallax"><img src="images/Lac_du_Bourget_et_le_Revard.min.jpg"></div>
 	</div>
