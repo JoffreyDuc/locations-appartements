@@ -11,108 +11,110 @@
 		</div>
 		<div class="parallax"><img src="images/Lac_du_Bourget_et_le_Revard.min.jpg"></div>
 	</div>
+</div>
 
-	<div class="container"> 
-		<!-- T2 Nivolet -->
-		<div class="col l4 m6 s12">
-			<div class="card medium hoverable">
-				<div class="card-image">
-					<img src="images/T2-nivolet/nivolet-0.jpg">
-					<span class="card-title">T2 "Nivolet"</span>
-				</div>
-				<div class="card-content">
-					<p>Cet appartement est un T2.<br>
-					Petite description.</p>
-				</div>
-				<div class="card-action">
-					<a href="T2-nivolet.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
-				</div>
-			</div>
-		</div>
-		<!-- T3 Granier -->
-		<div class="col l4 m6 s12">
-			<div class="card medium hoverable">
-				<div class="card-image">
-					<img src="images/T3-granier/granier-0.jpg">
-					<span class="card-title">T3 "Granier"</span>
-				</div>
-				<div class="card-content">
-					<p>Cet appartement est un T3.<br>
-					Petite description.</p>
-				</div>
-				<div class="card-action">
-					<a href="T3-granier.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
-				</div>
-			</div>
-		</div>
-		<!-- T3 Thomas 2 -->
-		<div class="col l4 m6 s12">
-			<div class="card medium hoverable">
-				<div class="card-image">
-					<img src="images/T3-thomas_2/thomas_2-0.jpg">
-					<span class="card-title">T3 "Thomas 2"</span>
-				</div>
-				<div class="card-content">
-					<p>Cet appartement est un T3.<br>
-					Petite description.</p>
-				</div>
-				<div class="card-action">
-					<a href="T3-thomas_2.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
-				</div>
-			</div>
-		</div>
-		<!-- T4 Belledonnes -->
-		<div class="col l4 m6 s12">
-			<div class="card medium hoverable">
-				<div class="card-image">
-					<img src="images/T4-belledonnes/belledonnes-0.jpg">
-					<span class="card-title">T4 "Belledonnes"</span>
-				</div>
-				<div class="card-content">
-					<p>Cet appartement est un T4.<br>
-					Petite description.</p>
-				</div>
-				<div class="card-action">
-					<a href="T4-belledonnes.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
-				</div>
-			</div>
-		</div>
-		<!-- T4 Dent-du-chat -->
-		<div class="col l4 m6 s12">
-			<div class="card medium hoverable">
-				<div class="card-image">
-					<img src="images/T4-dent_du_chat/dent_du_chat-0.jpg">
-					<span class="card-title">T4 "Dent-du-chat"</span>
-				</div>
-				<div class="card-content">
-					<p>Cet appartement est un T4.<br>
-					Petite description.</p>
-				</div>
-				<div class="card-action">
-					<a href="T4-dent_du_chat.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
-				</div>
-			</div>
-		</div>
-		<!-- T4 Revard -->
-		<div class="col l4 m6 s12">
-			<div class="card medium hoverable">
-				<div class="card-image">
-					<img src="images/T4-revard/revard-0.jpg">
-					<span class="card-title">T4 "Revard"</span>
-				</div>
-				<div class="card-content">
-					<p>Cet appartement est un T4.<br>
-					Petite description.</p>
-				</div>
-				<div class="card-action">
-					<a href="T4-revard.php" class="btn-flat orange-text waves-effect">Plus d'infos</a>
-				</div>
-			</div>
-		</div>
+<div class="container">
+	<div class="divTableau white">
+		<table>
+			<!-- T2 Nivolet -->
+			<tr>
+				<td>
+					<img src="images/T2-nivolet/nivolet-0.jpg" width="240px" height="180px" class="hide-on-small-only">
+					<img src="images/T2-nivolet/nivolet-0.jpg" width="100px" height="90px" class="hide-on-med-and-up">
+				</td>
+				<td>
+					<h5>T2 - Nivolet</h5>
+					Un petit 2 pièces de 35m². Meublé, 1 chambre
+				</td>
+				<td class="center">
+					<p>Prix</p>
+					<h5>385€</h5>
+					<a href="T2-nivolet.php" class="btn waves-effect">VOIR</a>
+				</td>
+			</tr>
+			<!-- T3 Granier -->
+			<tr>
+				<td>
+					<img src="images/T3-granier/granier-0.jpg" width="240px" height="180px" class="hide-on-small-only">
+					<img src="images/T3-granier/granier-0.jpg" width="100px" height="90px" class="hide-on-med-and-up">
+				</td>
+				<td>
+					<h5>T3 - Granier</h5>
+					Un 3 pièces de 55m². Meublé, 2 chambres
+				</td>
+				<td class="center">
+					<p>Prix</p>
+					<h5>375€</h5>
+					<a href="T3-granier.php" class="btn waves-effect">VOIR</a>
+				</td>
+			</tr>
+			<!-- T3 Thomas 2 -->
+			<tr>
+				<td>
+					<img src="images/T3-thomas_2/thomas_2-0.jpg" width="240px" height="180px" class="hide-on-small-only">
+					<img src="images/T3-thomas_2/thomas_2-0.jpg" width="100px" height="90px" class="hide-on-med-and-up">
+				</td>
+				<td>
+					<h5>T3 - Thomas 2</h5>
+					Un 3 pièces de 75m². Meublé, 2 chambres
+				</td>
+				<td class="center">
+					<p>Prix</p>
+					<h5>385€</h5>
+					<a href="T3-thomas_2.php" class="btn waves-effect">VOIR</a>
+				</td>
+			</tr>
+			<!-- T4 Belledonnes -->
+			<tr>
+				<td>
+					<img src="images/T4-belledonnes/belledonnes-0.jpg" width="240px" height="180px" class="hide-on-small-only">
+					<img src="images/T4-belledonnes/belledonnes-0.jpg" width="100px" height="90px" class="hide-on-med-and-up">
+				</td>
+				<td>
+					<h5>T4 - Belledonnes</h5>
+					Un 5 pièces de 105m². Meublé, 3 chambres
+				</td>
+				<td class="center">
+					<p>Prix</p>
+					<h5>325€</h5>
+					<a href="T4-belledonnes.php" class="btn waves-effect">VOIR</a>
+				</td>
+			</tr>
+			<!-- T4 Dent-du-chat -->
+			<tr>
+				<td>
+					<img src="images/T4-dent_du_chat/dent_du_chat-0.jpg" width="240px" height="180px" class="hide-on-small-only">
+					<img src="images/T4-dent_du_chat/dent_du_chat-0.jpg" width="100px" height="90px" class="hide-on-med-and-up">
+				</td>
+				<td>
+					<h5>T4 - Dent-du-chat</h5>
+					Un 5 pièces de 105m². Meublé, 3 chambres
+				</td>
+				<td class="center">
+					<p>Prix</p>
+					<h5>325€</h5>
+					<a href="T4-dent_du_chat.php" class="btn waves-effect">VOIR</a>
+				</td>
+			</tr>
+			<!-- T4 Revard -->
+			<tr>
+				<td>
+					<img src="images/T4-revard/revard-1.jpg" width="240px" height="180px" class="hide-on-small-only">
+					<img src="images/T4-revard/revard-0.jpg" width="100px" height="90px" class="hide-on-med-and-up">
+				</td>
+				<td>
+					<h5>T4 - Revard</h5>
+					Un 4 pièces de 105m². Meublé, 3 chambres
+				</td>
+				<td class="center">
+					<p>Prix</p>
+					<h5>385€</h5>
+					<a href="T4-revard.php" class="btn waves-effect">VOIR</a>
+				</td>
+			</tr>
+		</table>
 	</div>
-
 	
-
 </div>
 
 <div class="hide-on-small-only">

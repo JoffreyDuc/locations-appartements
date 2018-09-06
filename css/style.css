@@ -126,6 +126,10 @@ header {
 .description h5 {
 	font-size: 20px;
 }
+.descriptionWithoutTop {
+	padding: 0px 12px 75px 12px;
+	font-family: 'Raleway', sans-serif;
+}
 #divImageSalon {
 	background-image: url('../images/T4-revard/revard-0.jpg');
 	background-repeat: no-repeat;
@@ -159,8 +163,16 @@ header {
 #divAppart {
 	margin-bottom: 40px;
 }
-.owl-nav {
-	text-align: center;
+.infos {
+	font-size: 20px;
+	font-weight: bold;
+}
+.ulStyle ul li {
+	list-style-type: square;
+}
+.divTableau {
+	padding: 0px 10px;
+	font-family: 'Raleway', sans-serif;
 }
 
 /* Pied de page */

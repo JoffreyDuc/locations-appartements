@@ -21,9 +21,8 @@
 	<!-- Material Icons -->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-	<!-- Owl Carousel -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- PgwSlideShow -->
+	<link rel="stylesheet" type="text/css" href="lib/pgwslideshow/pgwslideshow.css">
 </head>
 <body>
 
@@ -41,7 +40,7 @@
 	<script src="lib/jquery/jquery-3.3.1.min.js"></script>
 	<script src="lib/materialize/js/materialize.min.js"></script>
 	<script src="js/main.js" type="text/javascript"></script>
-	<script src="js/owl.carousel.min.js"></script>
+	<script src="lib/pgwslideshow/pgwslideshow.js" type="text/javascript"></script>
 
 </body>
 </html>

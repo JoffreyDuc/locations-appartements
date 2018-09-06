@@ -29,17 +29,8 @@ $(document).ready( () => {
 		($("#hamburger i").text() === "menu") ? $("#hamburger i").text("close") : $("#hamburger i").text("menu");
 	});
 	
-	// Chargement du carousel
-	$(".owl-carousel").owlCarousel({
-		items:1,
-		margin:10,
-		autoHeight:true,
-		nav:true,
-		navText: [
-			"<i class='medium material-icons white-text hide-on-small-only'>chevron_left</i><i class='medium material-icons primary-text hide-on-med-and-up'>chevron_left</i>",
-			"<i class='medium material-icons white-text hide-on-small-only'>chevron_right</i><i class='medium material-icons primary-text hide-on-med-and-up'>chevron_right</i></i>"
-		],
-		loop:true,
-		dots:true
+	// Gestion du carousel
+	$('.pgwSlideshow').pgwSlideshow({
+		"maxHeight": 500
 	});
 });
