@@ -33,4 +33,9 @@ $(document).ready( () => {
 	$('.pgwSlideshow').pgwSlideshow({
 		"maxHeight": 500
 	});
+
+	// Prix en fonction de la période
+	$('input[type=radio][name=periode]').change( () => {
+		$(".prix").toggleClass("hidden");
+	});
 });

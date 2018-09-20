@@ -39,6 +39,9 @@ hr {
 .withoutMarginBot {
 	margin-bottom: 0;
 }
+.hidden {
+	display: none;
+}
 
 /* Menu */
 header {

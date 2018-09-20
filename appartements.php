@@ -16,11 +16,37 @@
 <div class="container">
 	<div class="divTableau white">
 		<table>
-			<!-- T2 Nivolet -->
 			<tr>
 				<td>
-					<img src="images/T2-nivolet/nivolet-0.jpg" width="240px" height="180px" class="hide-on-small-only">
-					<img src="images/T2-nivolet/nivolet-0.jpg" width="100px" height="90px" class="hide-on-med-and-up">
+					<h5>Les appartements</h5>
+				</td>
+				<td colspan="2">
+					<div style="float: right;">
+						<label>
+							<input class="with-gap" name="periode" type="radio" checked />
+							<span>Année scolaire</span>
+						</label>
+						<br>
+						<label>
+							<input class="with-gap" name="periode" type="radio" />
+							<span>Période estivale</span>
+						</label>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<small>La période scolaire dure de septembre à juin.<br>
+					La période estivale commence à la deuxième quinzaine de juillet et se termine à la première quinzaine d'août.</small>
+				</td>
+			</tr>
+			<!-- T2 Nivolet -->
+			<tr>
+				<td class="hide-on-small-only">
+					<img src="images/T2-nivolet/nivolet-0.jpg" width="240px" height="180px">
+				</td>
+				<td class="hide-on-med-and-up" style="width: 150px !important;">
+					<img src="images/T2-nivolet/nivolet-0.jpg" width="100px" height="90px">
 				</td>
 				<td>
 					<h5>T2 - Nivolet</h5>
@@ -28,7 +54,10 @@
 				</td>
 				<td class="center">
 					<p>Prix</p>
-					<h5>385€</h5>
+					<!-- Prix en période scolaire -->
+					<h5 class="prix">300€ / mois</h5>
+					<!-- Prix en période estivale -->
+					<h5 class="prix hidden">350€ / semaine</h5>
 					<a href="T2-nivolet.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -44,7 +73,10 @@
 				</td>
 				<td class="center">
 					<p>Prix</p>
-					<h5>375€</h5>
+					<!-- Prix en période scolaire -->
+					<h5 class="prix">400€</h5>
+					<!-- Prix en période estivale -->
+					<h5 class="prix hidden">450€</h5>
 					<a href="T3-granier.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -60,7 +92,10 @@
 				</td>
 				<td class="center">
 					<p>Prix</p>
-					<h5>385€</h5>
+					<!-- Prix en période scolaire -->
+					<h5 class="prix">400€</h5>
+					<!-- Prix en période estivale -->
+					<h5 class="prix hidden">450€</h5>
 					<a href="T3-thomas_2.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -76,7 +111,10 @@
 				</td>
 				<td class="center">
 					<p>Prix</p>
-					<h5>325€</h5>
+					<!-- Prix en période scolaire -->
+					<h5 class="prix">480€</h5>
+					<!-- Prix en période estivale -->
+					<h5 class="prix hidden">520€</h5>
 					<a href="T4-belledonnes.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -92,7 +130,10 @@
 				</td>
 				<td class="center">
 					<p>Prix</p>
-					<h5>325€</h5>
+					<!-- Prix en période scolaire -->
+					<h5 class="prix">480€</h5>
+					<!-- Prix en période estivale -->
+					<h5 class="prix hidden">520€</h5>
 					<a href="T4-dent_du_chat.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -108,7 +149,10 @@
 				</td>
 				<td class="center">
 					<p>Prix</p>
-					<h5>385€</h5>
+					<!-- Prix en période scolaire -->
+					<h5 class="prix">480€</h5>
+					<!-- Prix en période estivale -->
+					<h5 class="prix hidden">520€</h5>
 					<a href="T4-revard.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
