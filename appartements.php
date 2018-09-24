@@ -74,9 +74,9 @@
 				<td class="center">
 					<p>Prix</p>
 					<!-- Prix en période scolaire -->
-					<h5 class="prix">400€</h5>
+					<h5 class="prix">400€ / mois</h5>
 					<!-- Prix en période estivale -->
-					<h5 class="prix hidden">450€</h5>
+					<h5 class="prix hidden">450€ / semaine</h5>
 					<a href="T3-granier.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -93,9 +93,9 @@
 				<td class="center">
 					<p>Prix</p>
 					<!-- Prix en période scolaire -->
-					<h5 class="prix">400€</h5>
+					<h5 class="prix">400€ / mois</h5>
 					<!-- Prix en période estivale -->
-					<h5 class="prix hidden">450€</h5>
+					<h5 class="prix hidden">450€ / semaine</h5>
 					<a href="T3-thomas_2.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -112,9 +112,9 @@
 				<td class="center">
 					<p>Prix</p>
 					<!-- Prix en période scolaire -->
-					<h5 class="prix">480€</h5>
+					<h5 class="prix">480€ / mois</h5>
 					<!-- Prix en période estivale -->
-					<h5 class="prix hidden">520€</h5>
+					<h5 class="prix hidden">520€ / semaine</h5>
 					<a href="T4-belledonnes.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -131,9 +131,9 @@
 				<td class="center">
 					<p>Prix</p>
 					<!-- Prix en période scolaire -->
-					<h5 class="prix">480€</h5>
+					<h5 class="prix">480€ / mois</h5>
 					<!-- Prix en période estivale -->
-					<h5 class="prix hidden">520€</h5>
+					<h5 class="prix hidden">520€ / semaine</h5>
 					<a href="T4-dent_du_chat.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>
@@ -150,9 +150,9 @@
 				<td class="center">
 					<p>Prix</p>
 					<!-- Prix en période scolaire -->
-					<h5 class="prix">480€</h5>
+					<h5 class="prix">480€ / mois</h5>
 					<!-- Prix en période estivale -->
-					<h5 class="prix hidden">520€</h5>
+					<h5 class="prix hidden">520€ / semaine</h5>
 					<a href="T4-revard.php" class="btn waves-effect">VOIR</a>
 				</td>
 			</tr>

@@ -34,6 +34,27 @@
 		</div>
 		
 		<div class="col l6 m8 s12 offset-l3 offset-m2 white descriptionWithoutTop withoutMarginBot">
+			<div class="row">
+				<div class="col s6 center">
+					<h5>Période :</h5>
+				</div>
+				<div class="col s6">
+					<div style="float: right; padding: 10px 10px 0px 0px;">
+						<label>
+							<input class="with-gap" name="periode" type="radio" checked />
+							<span>Année scolaire</span>
+						</label>
+						<br>
+						<label>
+							<input class="with-gap" name="periode" type="radio" />
+							<span>Période estivale</span>
+						</label>
+					</div>
+				</div>
+			</div>
+
+			<div class="divider"></div>
+			
 			<div class="row center">
 				<div class="col l4 m4 s4">
 					<div class="icon-block">
@@ -55,7 +76,8 @@
 					<div class="icon-block">
 						<h3 class="center primary-text"><i class="material-icons">euro_symbol</i></h3>
 						<h5 class="center">Prix</h5>
-						<p>385€ / par personne (CC)</p>
+						<p class="prix">480€<br>/ mois</p>
+						<p class="prix hidden">520€<br>/ semaine</p>
 					</div>
 				</div>
 			</div>
